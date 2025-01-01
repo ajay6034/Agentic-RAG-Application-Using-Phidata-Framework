@@ -1,7 +1,7 @@
 # Agentic RAG Project
 
 ## Description
-The Agentic RAG (Retrieval-Augmented Generation) project leverages the capabilities of Large Language Models (LLMs) and vector databases to answer queries based on the content extracted from a specific PDF document. This application uses a PDF URL to create a knowledge base, embedding the content into a vector database for efficient query answering and information retrieval.
+- The Agentic RAG (Retrieval-Augmented Generation) project leverages the capabilities of Large Language Models (LLMs) and vector databases to answer queries based on the content extracted from a specific PDF document. This application uses a PDF URL to create a knowledge base, embedding the content into a vector database for efficient query answering and information retrieval.
 
 
 - The main theme of the "Agentic RAG" project is to enhance information retrieval and response generation using Retrieval-Augmented Generation (RAG) techniques. This involves:
